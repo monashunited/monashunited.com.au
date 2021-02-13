@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "GitHub"
+    target: _blank
+    url: https://github.com/monashunited
+  - title: "Blog"
+    url: /blog/
+  - title: "Search"
+    url: /search/
+  - title: "About"
+    url: /about/

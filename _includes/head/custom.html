@@ -1,0 +1,34 @@
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+{% if site.data.config.favicon_path %}
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.data.config.favicon_path }}/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.data.config.favicon_path }}/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.data.config.favicon_path }}/favicon-16x16.png">
+<link rel="manifest" href="{{ site.data.config.favicon_path }}/site.webmanifest">
+<link rel="mask-icon" href="{{ site.data.config.favicon_path }}/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="{{ site.data.config.favicon_path }}/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="{{ site.data.config.favicon_path }}/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+{% endif %}
+<style>
+    .archive__item-teaser {
+        min-height: 238px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgb(222,228,228);
+        background: radial-gradient(circle, rgba(222,228,228,1) 0%, rgba(4, 9, 21,1) 100%);
+    }
+
+    /*add tint to images*/
+    .page__hero--overlay {
+        background-color: rgba(4, 9, 21,.5);
+        background-blend-mode: multiply;
+    }
+</style>
+
+{% include google/analytics.html %}
+
+<!-- end custom head snippets -->
