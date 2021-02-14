@@ -29,6 +29,12 @@
     }
 </style>
 
-{% include google/analytics.html %}
+
+
+{% if site.head_styles %}
+  {% for style in site.head_styles %}
+    <link rel="stylesheet" href="{{ style | relative_url }}">
+  {% endfor %}
+{% endif %}
 
 <!-- end custom head snippets -->
