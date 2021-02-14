@@ -18,7 +18,7 @@ feature_row:
     url: "https://www.facebook.com/groups/monashunited"
     target: "_blank"
     btn_label: "Follow Us"
-  - image_path: /assets/images/background/create-something-kelly-sikkema-Nlax2tu89bU-unsplash.webp
+  - image_path: /assets/images/banner/jingda-chen-fnV7HNrC33k-unsplash.webp
     alt: "blog"
     title: "Read the Blog"
     excerpt: "More posts from us"
