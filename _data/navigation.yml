@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "GitHub"
+  - title: "Facebook"
     target: _blank
-    url: https://github.com/monashunited
+    url: https://www.facebook.com/groups/monashunited
   - title: "Blog"
     url: /blog/
-  - title: "Search"
+  - title: "FAQ"
     url: /search/
   - title: "About"
     url: /about/

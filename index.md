@@ -9,8 +9,15 @@ header:
   cta_label: "<i class='fab fa-lightbulb-o'></i> Start Here"
   cta_url: "/blog/"
   caption:
-excerpt: "..."
+excerpt: "Uniting Monash ratepayers to keep Monash Council accountable."
 feature_row:
+  - image_path: /assets/images/facebook_3x4.webp
+    alt: "blog"
+    title: "Facebook"
+    excerpt: "Show your support and stay up to date."
+    url: "https://www.facebook.com/groups/monashunited"
+    target: "_blank"
+    btn_label: "Follow Us"
   - image_path: /assets/images/background/create-something-kelly-sikkema-Nlax2tu89bU-unsplash.webp
     alt: "blog"
     title: "Read the Blog"

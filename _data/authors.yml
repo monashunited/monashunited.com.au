@@ -2,16 +2,6 @@
 
 max:
   name        : "Max Barrass"
-  email       : "max.barrass@gmail.com"
+  email       : "action@monashunited.org"
   avatar      : "/assets/images/profile/maxbarrass.jpg"
-  twitter     : "maxbarrass"
-  linkedin    : "maxbarrass"
-  github      : "wildone"
-  sponsor:
-    github    : "wildone"
 
-ken:
-  name        : "Ken Kopelson"
-  avatar      : "/assets/images/profile/ken.jpg"
-  linkedin    : "ken-kopelson"
-  github      : "kenkopelson"
