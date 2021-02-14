@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://monashunited.com.au/feed.xml" rel="self" type="application/atom+xml" /><link href="https://monashunited.com.au/" rel="alternate" type="text/html" /><updated>2021-02-14T07:11:22+00:00</updated><id>https://monashunited.com.au/feed.xml</id><title type="html">Monash United</title><subtitle>Building the future of computer software technology</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><entry><title type="html">Monash United Flyer Drop</title><link href="https://monashunited.com.au/blog/2021/02/14/monash-united-flyer-drop" rel="alternate" type="text/html" title="Monash United Flyer Drop" /><published>2021-02-13T13:00:00+00:00</published><updated>2021-02-14T06:57:52+00:00</updated><id>https://monashunited.com.au/blog/2021/02/14/monash-united-flyer-drop</id><content type="html" xml:base="https://monashunited.com.au/blog/2021/02/14/monash-united-flyer-drop">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://monashunited.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://monashunited.org/" rel="alternate" type="text/html" /><updated>2021-02-14T13:36:38+00:00</updated><id>https://monashunited.org/feed.xml</id><title type="html">Monash United</title><subtitle>Building the future of computer software technology</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><entry><title type="html">Flyer Drop</title><link href="https://monashunited.org/blog/2021/02/14/flyer-drop" rel="alternate" type="text/html" title="Flyer Drop" /><published>2021-02-13T13:00:00+00:00</published><updated>2021-02-14T11:46:14+00:00</updated><id>https://monashunited.org/blog/2021/02/14/flyer-drop</id><content type="html" xml:base="https://monashunited.org/blog/2021/02/14/flyer-drop">&lt;style&gt;
 .page__hero--overlay p, .page__hero--overlay h1{
     background-color: rgba(0, 90, 136, 0.5);
     max-width: fit-content !important;
@@ -10,13 +10,13 @@
 }
 &lt;/style&gt;
 
-&lt;h2 id=&quot;monash-united-in-your-mail-box&quot;&gt;Monash United in your Mail Box&lt;/h2&gt;
+&lt;h2 id=&quot;flyer-drop&quot;&gt;Flyer Drop&lt;/h2&gt;
 
 &lt;p&gt;This community of volunteers have been busy delivering vital information to you.&lt;/p&gt;
 
 &lt;p&gt;If we have not got to you, you can download it here:&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/assets/docs/Monash-United-Flyer.pdf&quot; title=&quot;Monash United Flyer&quot;&gt;Monash United Flyer&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><category term="blog" /><category term="blog" /></entry><entry><title type="html">Monash United</title><link href="https://monashunited.com.au/blog/2021/02/01/monash-united" rel="alternate" type="text/html" title="Monash United" /><published>2021-01-31T13:00:00+00:00</published><updated>2021-02-14T06:50:03+00:00</updated><id>https://monashunited.com.au/blog/2021/02/01/monash-united</id><content type="html" xml:base="https://monashunited.com.au/blog/2021/02/01/monash-united">&lt;style&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/assets/docs/Monash-United-Flyer.pdf&quot; title=&quot;Monash United Flyer&quot;&gt;Monash United Flyer&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><category term="blog" /><category term="blog" /></entry><entry><title type="html">New Flyer</title><link href="https://monashunited.org/blog/2021/02/12/new-flyer" rel="alternate" type="text/html" title="New Flyer" /><published>2021-02-11T13:00:00+00:00</published><updated>2021-02-14T13:24:32+00:00</updated><id>https://monashunited.org/blog/2021/02/12/new-flyer</id><content type="html" xml:base="https://monashunited.org/blog/2021/02/12/new-flyer">&lt;style&gt;
 .page__hero--overlay p, .page__hero--overlay h1{
     background-color: rgba(0, 90, 136, 0.5);
     max-width: fit-content !important;
@@ -28,7 +28,77 @@
 }
 &lt;/style&gt;
 
-&lt;h2 id=&quot;welcome-to-monash-united&quot;&gt;Welcome to Monash United!&lt;/h2&gt;
+&lt;h2 id=&quot;monash-united-flyer&quot;&gt;Monash United Flyer&lt;/h2&gt;
+
+&lt;div id=&quot;customize_wrapper&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    
+    &lt;div&gt;&lt;picture&gt;&lt;img src=&quot;/assets/images/flyer/gallery/impact.jpeg&quot; alt=&quot;impact&quot; /&gt;&lt;/picture&gt;&lt;/div&gt;
+    
+    &lt;div&gt;&lt;picture&gt;&lt;img src=&quot;/assets/images/flyer/gallery/we-need-help.jpeg&quot; alt=&quot;we-need-help&quot; /&gt;&lt;/picture&gt;&lt;/div&gt;
+    
+  &lt;/div&gt;
+  &lt;div class=&quot;customize-tools&quot;&gt;
+    &lt;div class=&quot;tns-nav&quot; aria-label=&quot;Carousel Pagination&quot; id=&quot;gallery-customize-nav&quot;&gt;
+      
+      
+      
+        
+        &lt;button data-nav=&quot;0&quot; aria-controls=&quot;gallery&quot; style=&quot;&quot; aria-label=&quot;Carousel Page 0 (Current Slide)&quot; class=&quot;tns-nav-active&quot;&gt;&lt;/button&gt;
+        
+        
+        
+      
+        
+        &lt;button data-nav=&quot;1&quot; aria-controls=&quot;gallery&quot; style=&quot;&quot; aria-label=&quot;Carousel Page 1&quot; class=&quot;&quot; tabindex=&quot;-1&quot;&gt;&lt;/button&gt;
+        
+        
+        
+      
+    &lt;/div&gt;
+    &lt;ul class=&quot;controls&quot; id=&quot;gallery-customize-controls&quot;&gt;
+      &lt;li class=&quot;prev&quot;&gt;
+        &lt;img src=&quot;/assets/controls/angle-left.png&quot; alt=&quot;Previous&quot; /&gt;
+      &lt;/li&gt;
+      &lt;li class=&quot;next&quot;&gt;
+        &lt;img src=&quot;/assets/controls/angle-right.png&quot; alt=&quot;Next&quot; /&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class=&quot;playbutton-wrapper&quot;&gt;
+      &lt;button id=&quot;gallery-customize-toggle&quot;&gt;❚❚&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var slider = tns({
+    container: '.gallery',
+    items: 1,
+    autoplay: true,
+    arrowKeys: true,
+    speed: 400,
+    edgePadding: 50,
+    mouseDrag: true,
+    autoplayHoverPause: true,
+    autoplayText: ['▶', '❚❚'],
+    navContainer: &quot;#gallery-customize-nav&quot;,
+    controlsContainer: &quot;#gallery-customize-controls&quot;,
+    autoplayButton: &quot;#gallery-customize-toggle&quot;,
+    navPosition: &quot;bottom&quot;
+  });
+&lt;/script&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><category term="blog" /><category term="blog" /></entry><entry><title type="html">Welcome Monash United</title><link href="https://monashunited.org/blog/2021/02/01/welcome" rel="alternate" type="text/html" title="Welcome Monash United" /><published>2021-01-31T13:00:00+00:00</published><updated>2021-02-14T11:46:14+00:00</updated><id>https://monashunited.org/blog/2021/02/01/welcome</id><content type="html" xml:base="https://monashunited.org/blog/2021/02/01/welcome">&lt;style&gt;
+.page__hero--overlay p, .page__hero--overlay h1{
+    background-color: rgba(0, 90, 136, 0.5);
+    max-width: fit-content !important;
+    border-radius: 25px;
+    padding: 10px;
+}
+.page__lead {
+  display:none
+}
+&lt;/style&gt;
+
+&lt;h2 id=&quot;our-purpouse&quot;&gt;Our Purpouse&lt;/h2&gt;
 
 &lt;p&gt;This community group exist to unite all of the community groups to give us a single powerful voice!&lt;/p&gt;
 
@@ -50,7 +120,7 @@
 
 &lt;p&gt;Our rates will go up, we will lose trees and the open spaces we love, local tennis clubs will close, and traffic will increase.&lt;/p&gt;
 
-&lt;p&gt;Show your support by joining our group and stay up to date with what’s happening.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><category term="blog" /><category term="blog" /></entry><entry><title type="html">Monash Serves Xmas Ace!</title><link href="https://monashunited.com.au/blog/2020/12/22/monash-council-serves-xmas-ace" rel="alternate" type="text/html" title="Monash Serves Xmas Ace!" /><published>2020-12-21T13:00:00+00:00</published><updated>2021-02-14T06:50:03+00:00</updated><id>https://monashunited.com.au/blog/2020/12/22/monash-council-serves-xmas-ace</id><content type="html" xml:base="https://monashunited.com.au/blog/2020/12/22/monash-council-serves-xmas-ace">&lt;style&gt;
+&lt;p&gt;Show your support by joining our group and stay up to date with what’s happening.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><category term="blog" /><category term="blog" /></entry><entry><title type="html">Monash Serves Xmas Ace!</title><link href="https://monashunited.org/blog/2020/12/22/monash-council-serves-xmas-ace" rel="alternate" type="text/html" title="Monash Serves Xmas Ace!" /><published>2020-12-21T13:00:00+00:00</published><updated>2021-02-14T06:50:03+00:00</updated><id>https://monashunited.org/blog/2020/12/22/monash-council-serves-xmas-ace</id><content type="html" xml:base="https://monashunited.org/blog/2020/12/22/monash-council-serves-xmas-ace">&lt;style&gt;
 .page__hero--overlay p, .page__hero--overlay h1{
     background-color: rgba(0, 90, 136, 0.5);
     max-width: fit-content !important;

@@ -1,25 +1,31 @@
 <!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.22.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Monash United Flyer Drop - Monash United</title>
+<!-- begin _includes/seo.html --><title>Flyer Drop - Monash United</title>
 <meta name="description" content="Building the future of computer software technology">
 
 
 
 <meta property="og:type" content="article">
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="en_AU">
 <meta property="og:site_name" content="Monash United">
-<meta property="og:title" content="Monash United Flyer Drop">
-<meta property="og:url" content="https://monashunited.com.au/blog/2021/02/14/monash-united-flyer-drop">
+<meta property="og:title" content="Flyer Drop">
+<meta property="og:url" content="https://monashunited.org/blog/2021/02/14/flyer-drop">
 
 
   <meta property="og:description" content="Building the future of computer software technology">
 
 
 
-  <meta property="og:image" content="https://monashunited.com.au/assets/images/banner/glenwaverley_golfcourse.webp">
+  <meta property="og:image" content="https://monashunited.org/assets/images/banner/glenwaverley_golfcourse.webp">
 
 
 
@@ -29,7 +35,7 @@
 
 
 
-  <meta property="article:modified_time" content="2021-02-14T06:57:52+00:00">
+  <meta property="article:modified_time" content="2021-02-14T11:46:14+00:00">
 
 
 
@@ -38,7 +44,7 @@
   
 
 
-<link rel="canonical" href="https://monashunited.com.au/blog/2021/02/14/monash-united-flyer-drop">
+<link rel="canonical" href="https://monashunited.org/blog/2021/02/14/flyer-drop">
 
 
 
@@ -49,13 +55,11 @@
     
       "@type": "Person",
       "name": "Monash United",
-      "url": "https://monashunited.com.au/"
+      "url": "https://monashunited.org/"
     
   }
 </script>
 
-
-  <meta name="google-site-verification" content="6b6UPagpp6F5std9m9NDh-UVbBTxekdzLg9y5cLpQeo" />
 
 
 
@@ -64,7 +68,9 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Monash United Feed">
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Monash United Feed">
+
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -96,7 +102,8 @@
   
     <script src="/assets/scripts/lightbox.js"></script>
   
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+  
 
     <!-- start custom head snippets -->
 
@@ -112,32 +119,15 @@
 <meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
-<style>
-    .archive__item-teaser {
-        min-height: 238px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: rgb(222,228,228);
-        background: radial-gradient(circle, rgba(222,228,228,1) 0%, rgba(4, 9, 21,1) 100%);
-    }
 
-    /*add tint to images*/
-    .page__hero--overlay {
-        background-color: rgba(4, 9, 21,.5);
-        background-blend-mode: multiply;
-    }
-</style>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RHMZ8NP29M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RHMZ8NP29M');
-</script>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
+  
+    <link rel="stylesheet" href="/assets/styles/head.css">
+  
+    <link rel="stylesheet" href="/assets/styles/tiny-slider.css">
+  
 
 
 <!-- end custom head snippets -->
@@ -165,18 +155,24 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-logo" href="/"><img src="/assets/logos/monashunited_icon.png" alt="site logo"></a>
+        <a class="site-logo" href="/"><img src="/assets/logos/monashunited_icon.png" alt="Monash United"></a>
         
-        <a class="site-title" href="/"><span class="title">Monash United</span>
+        <a class="site-title" href="/">
+          Monash United
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a target="_blank" href="https://www.facebook.com/groups/monashunited">Facebook</a>
-            </li><li class="masthead__menu-item">
-              <a target="" href="/blog/">Blog</a>
-            </li><li class="masthead__menu-item">
-              <a target="" href="/search/">FAQ</a>
-            </li></ul>
+            <a href="https://www.facebook.com/groups/monashunited">Facebook</a>
+          </li><li class="masthead__menu-item">
+            <a href="/blog/">Blog</a>
+          </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle Menu</span>
@@ -187,25 +183,6 @@
     </div>
   </div>
 </div>
-
-<style>
-#site-nav .site-title {
-  width: 150px;
-  line-height: 1em;
-  border-left: 4px rgb(121,123,252) solid;
-  padding-left: .5em;
-  font-style: italic;
-  font-weight: lighter;
-  text-transform: uppercase;
-}
-#site-nav .site-title .site-subtitle {
-  display: none;
-}
-.site-logo img {
-  max-height: 3rem;
-} 
-</style>
-  
 
 
     <div class="initial-content">
@@ -225,7 +202,7 @@
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
         
-          Monash United Flyer Drop
+          Flyer Drop
 
         
       </h1>
@@ -365,16 +342,15 @@
 </div>
 
   
-  
   </div>
 
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Monash United Flyer Drop">
+    <meta itemprop="headline" content="Flyer Drop">
     <meta itemprop="description" content="">
     <meta itemprop="datePublished" content="2021-02-13T13:00:00+00:00">
-    <meta itemprop="dateModified" content="2021-02-14T06:57:52+00:00">
+    <meta itemprop="dateModified" content="2021-02-14T11:46:14+00:00">
 
     <div class="page__inner-wrap">
       
@@ -393,7 +369,7 @@
 }
 </style>
 
-<h2 id="monash-united-in-your-mail-box">Monash United in your Mail Box</h2>
+<h2 id="flyer-drop">Flyer Drop</h2>
 
 <p>This community of volunteers have been busy delivering vital information to you.</p>
 
@@ -401,40 +377,23 @@
 
 <p><a target="_blank" href="/assets/docs/Monash-United-Flyer.pdf" title="Monash United Flyer">Monash United Flyer</a></p>
 
-        
-      </section>
 
-      <h2>Show your support</h2>
+        <h2>Show your support</h2>
 
 <div>Follow us on facebook and stay up to date!</div>
 <br>
 <div>
 <a href="https://www.facebook.com/groups/monashunited" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span>Follow Us</span></a>
 </div>
-      
-      <style>
-        .page__content_adspace_bottom {
-          height: 200px;
-          display: inline-block;
-          width: 100%;
-        }
-      </style>
-      <section class="page__content_adspace_bottom">
-        
-<div align="center" style="margin: 1em 0;">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-6707033742178132"
-         data-ad-slot="7730324178"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-</div>
 
+
+        
       </section>
+
+      
+
+           
+
       <footer class="page__meta">
         
         
@@ -481,18 +440,18 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=Monash+United+Flyer+Drop%20https%3A%2F%2Fmonashunited.com.au%2Fblog%2F2021%2F02%2F14%2Fmonash-united-flyer-drop" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=Flyer+Drop%20https%3A%2F%2Fmonashunited.org%2Fblog%2F2021%2F02%2F14%2Fflyer-drop" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonashunited.com.au%2Fblog%2F2021%2F02%2F14%2Fmonash-united-flyer-drop" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonashunited.org%2Fblog%2F2021%2F02%2F14%2Fflyer-drop" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmonashunited.com.au%2Fblog%2F2021%2F02%2F14%2Fmonash-united-flyer-drop" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmonashunited.org%2Fblog%2F2021%2F02%2F14%2Fflyer-drop" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/blog/2021/02/01/monash-united" class="pagination--pager" title="Monash United
+      <a href="/blog/2021/02/12/new-flyer" class="pagination--pager" title="New Flyer
 ">Previous</a>
     
     
@@ -520,7 +479,47 @@
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/blog/2021/02/01/monash-united" rel="permalink">Monash United
+        <a href="/blog/2021/02/12/new-flyer" rel="permalink">New Flyer
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2021/02/01/welcome" rel="permalink">Welcome Monash United
 </a>
       
     </h2>
@@ -600,12 +599,28 @@
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
+    <label class="sr-only" for="cse-search-input-box-id">
+      Enter your search term...
+    </label>
+    <input type="search" id="cse-search-input-box-id" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results">
+    <gcse:searchresults-only></gcse:searchresults-only>
+  </div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
+
+
 <!-- end custom footer snippets -->
+
         <div class="page__footer-follow">
   <ul class="social-icons">
     
@@ -628,18 +643,14 @@
       
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 Monash United. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. Hosted out of <a href="https://github.com/monashunited/monashunited.com.au" rel="nofollow">Github</a></div>
+<div class="page__footer-copyright">&copy; 2021 Monash United. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
-
-<style>
-  .page__content_adspace_bottom {
-    display: none !important
-  }
-</style>
       </footer>
     </div>
 
@@ -647,7 +658,30 @@
   <script src="/assets/js/main.min.js"></script>
 
 
+<script>
+  (function () {
+    var cx = '93d1ad71f0ac1f74b';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 
+  function googleCustomSearchExecute() {
+    var input = document.getElementById('cse-search-input-box-id');
+    var element = google.search.cse.element.getElement('searchresults-only0');
+    if (input.value == '') {
+      element.clearAllResults();
+    } else {
+      element.execute(input.value);
+    }
+    return false;
+  }
+
+  
+</script>
 
 
 

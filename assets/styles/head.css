@@ -1,0 +1,15 @@
+.archive__item-teaser {
+  min-height: 238px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(222,228,228);
+  background: radial-gradient(circle, rgba(222,228,228,1) 0%, rgba(4, 9, 21,1) 100%);
+}
+
+/*add tint to images*/
+.page__hero--overlay {
+  background-color: rgba(4, 9, 21,.5);
+  background-blend-mode: multiply;
+  margin-bottom: 0 !important;
+}

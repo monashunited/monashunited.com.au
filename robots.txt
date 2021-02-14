@@ -1,1 +1,1 @@
-Sitemap: https://monashunited.com.au/sitemap.xml
+Sitemap: https://monashunited.org/sitemap.xml
