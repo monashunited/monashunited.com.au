@@ -26,21 +26,8 @@ header:
 
 ## Monash United in your Mail Box
 
-This community of voloniteers 
+This community of volunteers have been busy delivering vital information to you.
 
-## We Need Your Help!
+If we have not got to you, you can download it here:
 
-Keep Monash Council Accountable!
-
-Monash Councillors have done a secret deal to build a significant sporting infrastructure east of Melbourne, a 26mil Tennis Complex located on Glen Waverley Golf Course ... at your expense!
-
-If you are ...
-
-* A ratepayer,
-* a golfer, 
-* a tennis player,
-* a lover of nature, 
-* or care about mental health services, help us find a better way.
-
-Our rates will go up, we will lose trees and the open spaces we love, local tennis clubs will close, and traffic will increase.
-Show your support by joining our group and stay up to date with what's happening.
+<a target="_blank" href="/assets/docs/Monash-United-Flyer.pdf" title="Monash United Flyer">Monash United Flyer</a>
