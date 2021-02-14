@@ -13,6 +13,10 @@
 <meta name="theme-color" content="#ffffff">
 {% endif %}
 
+{% if site.og_image_override %}
+<meta property="og:image" content="{{ site.og_image | absolute_url }}">
+{% endif %}
+
 {% if site.head_styles %}
   {% for style in site.head_styles %}
     <link rel="stylesheet" href="{{ style | relative_url }}">
