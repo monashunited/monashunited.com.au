@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /blog/2021/02/14/monash-united-flyer-drop
-title:  "Monash United Flyer Drop"
+permalink: /blog/2021/02/14/flyer-drop
+title:  "Flyer Drop"
 excerpt: ""
 date:   2021-02-14 00:00:00 +1100
 categories:
@@ -24,7 +24,7 @@ header:
 }
 </style>
 
-## Monash United in your Mail Box
+## Flyer Drop
 
 This community of volunteers have been busy delivering vital information to you.
 
