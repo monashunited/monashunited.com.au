@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Monash United Flyer Drop",
-        "excerpt":"Monash United in your Mail Box This community of voloniteers We Need Your Help! Keep Monash Council Accountable! Monash Councillors have done a secret deal to build a significant sporting infrastructure east of Melbourne, a 26mil Tennis Complex located on Glen Waverley Golf Course … at your expense! If you...","categories": ["blog"],
+        "excerpt":"  Monash United in your Mail Box   This community of volunteers have been busy delivering vital information to you.   If we have not got to you, you can download it here:   Monash United Flyer  ","categories": ["blog"],
         "tags": ["blog"],
         "url": "/blog/2021/02/14/monash-united-flyer-drop",
         "teaser": null
