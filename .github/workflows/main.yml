@@ -8,6 +8,7 @@ jobs:
 
     env:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+      ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
 
     runs-on: ubuntu-latest
     steps:
@@ -25,6 +26,7 @@ jobs:
       - name: build
         run: |
           bundle install
+          ALGOLIA_API_KEY=${ALGOLIA_API_KEY} bundle exec jekyll algolia
           bundle exec jekyll build
           bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
       - name: deploy
