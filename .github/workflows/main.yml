@@ -27,7 +27,7 @@ jobs:
         run: |
           bundle install
           ALGOLIA_API_KEY=${ALGOLIA_API_KEY} bundle exec jekyll algolia
-          bundle exec jekyll build
+          bundle exec jekyll build --future
           bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
