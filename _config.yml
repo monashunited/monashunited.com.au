@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Monash United"
 description              : "Building the future of computer software technology"
-url                      : "https://monashunited.com.au" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://monashunited.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "monashunited/monashunited.com.au" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -37,8 +37,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                : 2595045355510
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 5 # 5 (default)
+    colorscheme          : light # "light" (default), "dark"
     nonce                : "KnbXoebf"
     href                 : "https://monashunited.org"
   utterances:
@@ -79,6 +79,8 @@ head_scripts:
 
 head_styles:
   - https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css
+  - /assets/styles/head.css
+  - /assets/styles/tiny-slider.css
 
 # Social Sharing
 twitter:
