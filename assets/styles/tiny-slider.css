@@ -65,3 +65,5 @@
 .controls .next { right: 0; }
 .controls li:hover { background: #f2f2f2; }
 
+.playbutton-wrapper { text-align: center; }
+.playbutton-wrapper button { height: 34px; padding: 0 10px; font-size: 14px; background: #fff; border-radius: 3px; border: 1px solid  #ccc; cursor: pointer; }

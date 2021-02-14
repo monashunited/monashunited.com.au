@@ -1,0 +1,52 @@
+
+<div id="customize_wrapper">
+  <div class="{{ include.name }}">
+    {% for file in site.static_files %}{% if file.path contains include.folder %}{% assign fileextname = file.extname | upcase %}{% if fileextname == '.JPG' or fileextname == '.JPEG' or fileextname == '.PNG' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+    <div><picture><img src="{{ file.path | relative_url }}" alt="{{ filename }}"/></picture></div>
+    {% endif %}{% endif %}{% endfor %}
+  </div>
+  <div class="customize-tools">
+    <div class="tns-nav" aria-label="Carousel Pagination" id="{{ include.name }}-customize-nav">
+      {% assign navOrder = 0 %}
+      {% assign navIndex = 1 %}
+      {% for file in site.static_files %}{% if file.path contains include.folder %}{% assign fileextname = file.extname | upcase %}{% if fileextname == '.JPG' or fileextname == '.JPEG' or fileextname == '.PNG' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+        {% if navIndex == 1 %}
+        <button data-nav="{{ navOrder }}" aria-controls="{{ include.name }}" style="" aria-label="Carousel Page {{ navOrder }} (Current Slide)" class="tns-nav-active"></button>
+        {% else %}
+        <button data-nav="{{ navOrder }}" aria-controls="{{ include.name }}" style="" aria-label="Carousel Page {{ navOrder }}" class="" tabindex="-1"></button>
+        {% endif %}
+        {% assign navOrder = navOrder | plus:1 %}
+        {% assign navIndex = navIndex | plus:1 %}
+      {% endif %}{% endif %}{% endfor %}
+    </div>
+    <ul class="controls" id="{{ include.name }}-customize-controls">
+      <li class="prev">
+        <img src="/assets/controls/angle-left.png" alt="">
+      </li>
+      <li class="next">
+        <img src="/assets/controls/angle-right.png" alt="">
+      </li>
+    </ul>
+    <div class="playbutton-wrapper">
+      <button id="{{ include.name }}-customize-toggle">❚❚</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  var slider = tns({
+    container: '.{{ include.name }}',
+    items: 1,
+    autoplay: true,
+    arrowKeys: true,
+    speed: 400,
+    edgePadding: 50,
+    mouseDrag: true,
+    autoplayHoverPause: true,
+    autoplayText: ['▶', '❚❚'],
+    navContainer: "#{{ include.name }}-customize-nav",
+    controlsContainer: "#{{ include.name }}-customize-controls",
+    autoplayButton: "#{{ include.name }}-customize-toggle",
+    navPosition: "bottom"
+  });
+</script>
