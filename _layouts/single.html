@@ -36,7 +36,7 @@ layout: default
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
-              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
             </nav>
           </aside>
         {% endif %}
@@ -45,17 +45,9 @@ layout: default
       </section>
 
       {% include partials/support.html %}
-      
-      <style>
-        .page__content_adspace_bottom {
-          height: 200px;
-          display: inline-block;
-          width: 100%;
-        }
-      </style>
-      <section class="page__content_adspace_bottom">
-        {% include adds/adsense.html block=site.data.advertising.bottom %}
-      </section>
+      {% include adds/bottom.html %}
+           
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
