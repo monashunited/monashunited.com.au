@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-AU"
 title                    : "Monash United"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -50,46 +50,35 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+  hide                   : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : SWI1YZ47XA # YOUR_APPLICATION_ID
+  index_name             : monashunited # YOUR_INDEX_NAME
+  search_only_api_key    : 0bc4a5958cc42b70818736610eaf4f8b # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 
 # SEO Related
-google_site_verification : "6b6UPagpp6F5std9m9NDh-UVbBTxekdzLg9y5cLpQeo"
+google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
 naver_site_verification  :
 
 logo: "/assets/logos/monashunited_icon.png"
+
 head_scripts:
   - /assets/scripts/lightbox.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js
+
+head_styles:
+  - https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css
 
 # Social Sharing
 twitter:
@@ -108,12 +97,12 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : G-RHMZ8NP29M
     anonymize_ip         : # true, false (default)
-    gtm_id               : G-RHMZ8NP29M
-    gcse_id              : 93d1ad71f0ac1f74b
+    gtm_id               : G-RHMZ8NP29M        # https://analytics.google.com/analytics/web/
+    gcse_id              : 93d1ad71f0ac1f74b   # https://cse.google.com/cse/all
 
 advertising:
   show                   : false
