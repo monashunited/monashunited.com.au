@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
   cta_label: "<i class='fab fa-lightbulb-o'></i> Start Here"
-  cta_url: "/blog/"
+  cta_url: "https://www.facebook.com/groups/monashunited"
   caption:
 excerpt: "Uniting Monash ratepayers to keep Monash Council accountable."
 feature_row:
