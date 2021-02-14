@@ -69,3 +69,10 @@ Additional Notes
 
 * all items with `_` (underscore) are essentially hidden.
 * to add new sections and items to navigation `_config.yml` and `_data/navigation.yml` should be updated
+
+
+## Dev Notes
+
+### Ports
+
+update `dev.port` and `dev-livereload.port` with ports you want to run dev server.
