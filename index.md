@@ -24,6 +24,12 @@ feature_row:
     excerpt: "More posts from us"
     url: "/blog/"
     btn_label: "Read"
+  - image_path: /assets/images/flyer/we-need-help3.webp
+    alt: "Flyer"
+    title: "Flyer"
+    excerpt: "Read our latest flyer with updated information."
+    url: "/assets/docs/Monash-United-Flyer.pdf"
+    btn_label: "Read"
 
 ---
 
