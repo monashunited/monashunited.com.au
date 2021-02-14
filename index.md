@@ -5,7 +5,7 @@ github:
   - excerpt: &githubexc '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=monashunited&repo=monashunited.com.au&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=metaera&repo=monashunited.com.au&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/logos/monashunited.png
+  overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
   cta_label: "<i class='fab fa-lightbulb-o'></i> Start Here"
   cta_url: "/blog/"
   caption:
@@ -35,7 +35,9 @@ feature_row:
 .bravereferral {
   text-align: center;
 }
+
 </style>
+
 
 {% include feature_row.html id="intro" type="center" %}
 

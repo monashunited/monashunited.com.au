@@ -1,9 +1,9 @@
 ---
 layout: single
-permalink: /blog/2021/02/01/monash-united
-title:  "Monash United"
+permalink: /blog/2021/02/14/monash-united-flyer-drop
+title:  "Monash United Flyer Drop"
 excerpt: ""
-date:   2021-02-01 00:00:00 +1100
+date:   2021-02-14 00:00:00 +1100
 categories:
   - blog
 tags:
@@ -24,9 +24,9 @@ header:
 }
 </style>
 
-## Welcome to Monash United!
+## Monash United in your Mail Box
 
-This community group exist to unite all of the community groups to give us a single powerful voice!
+This community of voloniteers 
 
 ## We Need Your Help!
 
@@ -43,5 +43,4 @@ If you are ...
 * or care about mental health services, help us find a better way.
 
 Our rates will go up, we will lose trees and the open spaces we love, local tennis clubs will close, and traffic will increase.
-
 Show your support by joining our group and stay up to date with what's happening.

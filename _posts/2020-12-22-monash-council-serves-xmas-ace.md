@@ -26,7 +26,8 @@ header:
 
 ## Xmas Surprise
 
-A few days before Xmas, a knock on the door delivered news that would ruin xmas for everyone in GWav.
+A few days before Xmas, a knock on the door delivered the news that would ruin Xmas for everyone in GWav.
 
-We were told that we needed more sporting facilities and we were going to get them at expense of everyone.
+We were told that we needed more sporting facilities and we were going to get them at the expense of everyone.
+
 
