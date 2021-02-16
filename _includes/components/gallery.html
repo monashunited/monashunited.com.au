@@ -1,7 +1,7 @@
 
 <div id="customize_wrapper">
   <div class="{{ include.name }}">
-    {% for file in site.static_files %}{% if file.path contains include.folder %}{% assign fileextname = file.extname | upcase %}{% if fileextname == '.JPG' or fileextname == '.JPEG' or fileextname == '.PNG' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+    {% for file in site.static_files %}{% if file.path contains include.folder %}{% assign fileextname = file.extname | upcase %}{% if fileextname == include.extname %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
     <div><picture><img src="{{ file.path | relative_url }}" alt="{{ filename }}"/></picture></div>
     {% endif %}{% endif %}{% endfor %}
   </div>
@@ -9,7 +9,7 @@
     <div class="tns-nav" aria-label="Carousel Pagination" id="{{ include.name }}-customize-nav">
       {% assign navOrder = 0 %}
       {% assign navIndex = 1 %}
-      {% for file in site.static_files %}{% if file.path contains include.folder %}{% assign fileextname = file.extname | upcase %}{% if fileextname == '.JPG' or fileextname == '.JPEG' or fileextname == '.PNG' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+      {% for file in site.static_files %}{% if file.path contains include.folder %}{% assign fileextname = file.extname | upcase %}{% if fileextname == include.extname %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
         {% if navIndex == 1 %}
         <button data-nav="{{ navOrder }}" aria-controls="{{ include.name }}" style="" aria-label="Carousel Page {{ navOrder }} (Current Slide)" class="tns-nav-active"></button>
         {% else %}
