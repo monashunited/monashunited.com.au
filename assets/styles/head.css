@@ -13,3 +13,10 @@
   background-blend-mode: multiply;
   margin-bottom: 0 !important;
 }
+
+/*.page__hero--overlay .page__lead, .page__hero--overlay .page__title {*/
+/*  background-color: rgba(0, 90, 136, 0.5);*/
+/*  max-width: fit-content !important;*/
+/*  border-radius: 25px;*/
+/*  padding: 10px;*/
+/*}*/
