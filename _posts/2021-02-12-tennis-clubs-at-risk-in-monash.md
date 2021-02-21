@@ -7,12 +7,9 @@ date:   2021-02-21 00:00:00 +1100
 categories:
   - blog
 tags:
-  - monash local tennis clubs
-  - members
-  - monash council
-  - serious concerns
   - monash
-  - important health issue
+  - health
+  - tennis
 header:
     overlay_image: /assets/images/banner/tennis-background.webp
     og_image: /assets/images/cards/impact/impact-on-tennis.webp

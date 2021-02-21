@@ -7,10 +7,9 @@ date:   2021-02-21 00:00:00 +1100
 categories:
   - blog
 tags:
-  - glen waverley golf course
   - monash
-  - driving range
-  - important health issue
+  - health
+  - golf
 header:
     overlay_image: /assets/images/banner/golf-background.webp
     og_image: /assets/images/cards/impact/impact-on-golfers.webp

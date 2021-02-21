@@ -8,10 +8,6 @@ date:   2021-02-10 00:00:00 +1100
 categories:
   - blog
 tags:
-  - monash-local-tennis-clubs
-  - members
-  - monash-council
-  - serious-concerns
   - monash
 header:
     overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp

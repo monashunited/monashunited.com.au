@@ -7,11 +7,11 @@ date:   2021-02-21 00:00:00 +1100
 categories:
   - blog
 tags:
-  - glen waverley golf course
   - monash
-  - tennis courts
-  - monash council
-  - important health issue
+  - tennis
+  - golf
+  - health
+  - residents
 header:
     overlay_image: /assets/images/banner/residents-background.webp
     og_image: /assets/images/cards/impact/impact-on-residents.webp
