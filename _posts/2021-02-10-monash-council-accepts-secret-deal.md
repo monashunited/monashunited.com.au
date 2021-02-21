@@ -11,6 +11,7 @@ tags:
   - monash
 header:
     overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
+    og_image: /assets/images/cards/impact/secret-deal.webp
 ---
 
 A secret deal between the State Government and local Council will see Monash Council accept $21m to relocate Boroondara Tennis Tournament Complex to Glen Waverley Golf Course so the North East Link freeway interchange can be built.
