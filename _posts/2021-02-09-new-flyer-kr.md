@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /blog/2021/02/12/새 전단지
+permalink: /blog/2021/02/09/새 전단지
 title:  "새 전단지"
-date:   2021-02-12 00:00:00 +1100
+date:   2021-02-09 00:00:00 +1100
 categories:
   - blog
 tags:

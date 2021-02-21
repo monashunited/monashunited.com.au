@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /blog/2021/02/14/flyer-drop
+permalink: /blog/2021/02/09/flyer-drop
 title:  "Flyer Drop"
-date:   2021-02-14 00:00:00 +1100
+date:   2021-02-09 00:00:00 +1100
 categories:
   - blog
 tags:

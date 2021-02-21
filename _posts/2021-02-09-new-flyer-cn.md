@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /blog/2021/02/12/新传单
+permalink: /blog/2021/02/09/新传单
 title:  "新传单"
-date:   2021-02-12 00:00:00 +1100
+date:   2021-02-09 00:00:00 +1100
 categories:
   - blog
 tags:

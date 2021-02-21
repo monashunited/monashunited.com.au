@@ -1,9 +1,9 @@
 ---
 layout: single
-permalink: /blog/2021/02/21/monash-residents-lose-to-monash-council
+permalink: /blog/2021/02/13/monash-residents-lose-to-monash-council
 title:  "Monash Residents Lose to Monash Council"
 excerpt: "Monash Council agreed to forfeit 3.4 hectares of the Glen Waverley Public Golf Course land."
-date:   2021-02-21 00:00:00 +1100
+date:   2021-02-13 00:00:00 +1100
 categories:
   - blog
 tags:

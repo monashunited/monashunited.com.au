@@ -1,9 +1,9 @@
 ---
 layout: single
-permalink: /blog/2021/02/21/tennis-clubs-at-risk-in-monash
+permalink: /blog/2021/02/11/tennis-clubs-at-risk-in-monash
 title:  "Tennis Clubs at Risk in Monash"
 excerpt: "The new tennis centre is supposed to replace the existing 23-court tennis centre in Boroondara."
-date:   2021-02-21 00:00:00 +1100
+date:   2021-02-11 00:00:00 +1100
 categories:
   - blog
 tags:
