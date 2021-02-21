@@ -10,19 +10,8 @@ tags:
   - blog
 header:
     overlay_image: /assets/images/background/shayna-douglas-47d3Ocmiyuw-unsplash-monash3.webp
+    show_overlay_excerpt: false
 ---
-
-<style>
-.page__hero--overlay p, .page__hero--overlay h1{
-    background-color: rgba(0, 90, 136, 0.5);
-    max-width: fit-content !important;
-    border-radius: 25px;
-    padding: 10px;
-}
-.page__lead {
-  display:none
-}
-</style>
 
 ## Xmas Surprise
 
