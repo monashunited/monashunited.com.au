@@ -15,6 +15,7 @@ tags:
   - important health issue
 header:
     overlay_image: /assets/images/banner/tennis-background.webp
+    og_image: /assets/images/cards/impact/impact-on-tennis.webp
 ---
 
 ## To all Tennis Members

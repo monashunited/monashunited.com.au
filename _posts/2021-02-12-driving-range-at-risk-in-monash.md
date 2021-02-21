@@ -12,7 +12,8 @@ tags:
   - driving range
   - important health issue
 header:
-    overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
+    overlay_image: /assets/images/banner/golf-background.webp
+    og_image: /assets/images/cards/impact/impact-on-golfers.webp
 ---
 
 ## TO ALL GOLFERS

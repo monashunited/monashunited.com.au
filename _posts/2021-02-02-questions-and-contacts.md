@@ -9,8 +9,8 @@ tags:
   - questions
   - contacts
 header:
-    overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
-    og_image: /assets/images/flyer/we-need-help3.webp
+    overlay_image: /assets/images/banner/background-questions-contacts.webp
+    og_image: /assets/images/cards/impact/get-involved.webp
     show_overlay_excerpt: false
 ---
 

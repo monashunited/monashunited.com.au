@@ -13,7 +13,8 @@ tags:
   - monash council
   - important health issue
 header:
-    overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
+    overlay_image: /assets/images/banner/residents-background.webp
+    og_image: /assets/images/cards/impact/impact-on-residents.webp
 ---
 
 ## To the Monash Community & Residents
