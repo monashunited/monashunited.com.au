@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
   cta_label: "<i class='fab fa-lightbulb-o'></i> Read More"
   cta_url: "/blog/2021/02/10/monash-council-accepts-secret-deal"
-  og_image: /assets/images/banner/banner2.webp
+  og_image: /assets/images/cards/get-involved-with-monashunited.webp
 excerpt: "The Boroondara Tennis Tournament Complex will be relocated to Glen Waverley Golf Course."
 feature_row:
   - image_path: assets/images/cards/impact/impact-on-tennis.webp
