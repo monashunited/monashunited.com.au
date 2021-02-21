@@ -55,7 +55,7 @@ If you are a golfer, tennis player, resident, community member or care for our e
 *   How long do you expect golf users to be impacted by construction or how long will the course be closed?
 *   Can you promise the sound level of PA systems will not ruin the quiet enjoyment and focus of golfers?
 
-Sign up for updates and information sessions with Council:[ https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis)
+Sign up for updates and information sessions with Council:[https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis){target="_blank" class="external"}
 
 ## Contacts
 
@@ -63,96 +63,65 @@ Who do I contact?
 
 ### Your Councillors
 
-**[Nicky Luo](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Nicky-Luo)**
-  <br>E: [Nicky.Luo@monash.vic.gov.au](mailto:Nicky.Luo@monash.vic.gov.au)
-  <br>Ph: [0451 560 398](tel:0451 560 398)
+* **[Nicky Luo](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Nicky-Luo){:target="_blank" class="external"}**
+  * [Nicky.Luo@monash.vic.gov.au](mailto:Nicky.Luo@monash.vic.gov.au)
+  * [0451 560 398](tel:0451 560 398)
+* **[Geoff Lake](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Geoff-Lake){:target="_blank" class="external"}**
+  * [Geoff.Lake@monash.vic.gov.au](mailto:Geoff.Lake@monash.vic.gov.au)
+  * [0411 645 281](tel:0411 645 281)
+* **[Anjalee de Silva](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Anjalee-de-Silva){:target="_blank" class="external"}**
+  * [Anjalee.deSilva@monash.vic.gov.au](mailto:Anjalee.deSilva@monash.vic.gov.au)
+  * [0424 679 096](tel:0424 679 096)
+* **[Mayor Brian Little](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Brian-Little){:target="_blank" class="external"}**
+  * [Brian.Little@monash.vic.gov.au](mailto:Brian.Little@monash.vic.gov.au)
+  * [0407 878 033](tel:0407 878 033)
+* **[Rebecca Patterson](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Rebecca-Paterson){:target="_blank" class="external"}**
+  * [Rebecca.Paterson@monash.vic.gov.au](mailto:Rebecca.Paterson@monash.vic.gov.au)
+  * [0437 959 163](tel:0437 959 163)
+* **[Paul Klisaris](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Paul-Klisaris){:target="_blank" class="external"}**
+  * [Paul.Klisaris@monash.vic.gov.au](mailto:Paul.Klisaris@monash.vic.gov.au)
+  * [0412 516 026](tel:0412 516 026)
+* **[Shane McCluskey](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Shane-McCluskey){:target="_blank" class="external"}**
+  * [Shane.McCluskey@monash.vic.gov.au](mailto:Shane.McCluskey@monash.vic.gov.au)
+  * [0466 345 406](tel:0466 345 406)
+* **[Tina Samardzija](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Tina-Samardzija){:target="_blank" class="external"}**
+  * [Tina.Samardzija@monash.vic.gov.au](mailto:Tina.Samardzija@monash.vic.gov.au)
+  * [0435 011 927](tel:0435 011 927)
+* **[Josh Fergus](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Josh-Fergeus){:target="_blank" class="external"}**
+  * [Josh.Fergeus@monash.vic.gov.au](mailto:Josh.Fergeus@monash.vic.gov.au)
+  * [0466 465 421](tel:0466 465 421)
+* **[Stuart James](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Stuart-James){:target="_blank" class="external"}**
+  * [Stuart.James@monash.vic.gov.au](mailto:Stuart.James@monash.vic.gov.au)
+  * [0413 184 250](tel:0413 184 250)
+* **[Theo Zographos](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Theo-Zographos){:target="_blank" class="external"}**
+  * [Theo.Zographos@monash.vic.gov.au](mailto:Theo.Zographos@monash.vic.gov.au)
+  * [0430 316 911](tel:0430 316 911)
 
-**[Geoff Lake](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Geoff-Lake)**
-
-E: [Geoff.Lake@monash.vic.gov.au](mailto:Geoff.Lake@monash.vic.gov.au)
-
-Ph: [0411 645 281](tel:0411 645 281)
-
-**[Anjalee de Silva](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Anjalee-de-Silva)**
-
-E: [Anjalee.deSilva@monash.vic.gov.au](mailto:Anjalee.deSilva@monash.vic.gov.au)
-
-Ph: [0424 679 096](tel:0424 679 096)
-
-**[Mayor Brian Little](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Brian-Little)**
-
-E: [Brian.Little@monash.vic.gov.au](mailto:Brian.Little@monash.vic.gov.au)
-
-Ph: [0407 878 033](tel:0407 878 033)
-
-**[Rebecca Patterson](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Rebecca-Paterson)**
-
-E: [Rebecca.Paterson@monash.vic.gov.au](mailto:Rebecca.Paterson@monash.vic.gov.au)
-
-Ph: [0437 959 163](tel:0437 959 163)
-
-**[Paul Klisaris](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Paul-Klisaris)**
-
-E: [Paul.Klisaris@monash.vic.gov.au](mailto:Paul.Klisaris@monash.vic.gov.au)
-
-Ph: [0412 516 026](tel:0412 516 026)
-
-**[Shane McCluskey](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Shane-McCluskey)**
-
-E: [Shane.McCluskey@monash.vic.gov.au](mailto:Shane.McCluskey@monash.vic.gov.au)
-
-Ph: [0466 345 406](tel:0466 345 406)
-
-**[Tina Samardzija](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Tina-Samardzija)**
-
-E: [Tina.Samardzija@monash.vic.gov.au](mailto:Tina.Samardzija@monash.vic.gov.au)
-
-Ph: [0435 011 927](tel:0435 011 927)
-
-**[Josh Fergus](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Josh-Fergeus)**
-
-E: [Josh.Fergeus@monash.vic.gov.au](mailto:Josh.Fergeus@monash.vic.gov.au)
-
-Ph: [0466 465 421](tel:0466 465 421)
-
-**[Stuart James](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Stuart-James)**
-
-E: [Stuart.James@monash.vic.gov.au](mailto:Stuart.James@monash.vic.gov.au)
-
-Ph: [0413 184 250](tel:0413 184 250)
-
-**[Theo Zographos](https://www.monash.vic.gov.au/About-Us/Council/Councillors/Theo-Zographos)**
-
-E: [Theo.Zographos@monash.vic.gov.au](mailto:Theo.Zographos@monash.vic.gov.au)
-
-Ph: [0430 316 911](tel:0430 316 911)
-
-[Source](https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/monash-councillors-2021.pdf)
+[Source](https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/monash-councillors-2021.pdf){:target="_blank" class="external"}
 
 ### Executive Leadership Team:
 
-CEO - **Andi Diamond**
-
-**[Andi.Diamond@monash.vic.gov.au](mailto:Andi.Diamond@monash.vic.gov.au)**
-
-Director Community Services - [Russell Hopkins](mailto:Russell.Hopkins@monash.vic.gov.au)
-
-Director Infrastructure and Environment - [Ossie Martinz](mailto:Ossie.Martinz@monash.vic.gov.au)
-
-Recreation and Aquatics - [Tony Oulton](mailto:Tony.Oulton@monash.vic.gov.au)
-
-Engineering - [Ross Evans](mailto:Ross.Evans@monash.vic.gov.au)
-
-Facility and Infrastructure Maintenance - [Dino De Melis](mailto:Dino.DeMelis@monash.vic.gov.au)
-
-Horticulture Services - [Lucas Skelton](mailto:Lucas.Skelton@monash.vic.gov.au)
-
-Sustainable Monash - [Simon Hill](mailto:Simon.Hill@monash.vic.gov.au)
+* **CEO**
+  * [Andi Diamond](mailto:Andi.Diamond@monash.vic.gov.au)
+* Director Community Services
+  * [Russell Hopkins](mailto:Russell.Hopkins@monash.vic.gov.au)
+* Director Infrastructure and Environment
+  * [Ossie Martinz](mailto:Ossie.Martinz@monash.vic.gov.au)
+* Recreation and Aquatics
+  * [Tony Oulton](mailto:Tony.Oulton@monash.vic.gov.au)
+* Engineering
+  * [Ross Evans](mailto:Ross.Evans@monash.vic.gov.au)
+* Facility and Infrastructure Maintenance
+  * [Dino De Melis](mailto:Dino.DeMelis@monash.vic.gov.au)
+* Horticulture Services
+  * [Lucas Skelton](mailto:Lucas.Skelton@monash.vic.gov.au)
+* Sustainable Monash
+  * [Simon Hill](mailto:Simon.Hill@monash.vic.gov.au)
 
 
 ## PROJECT INFORMATION
 
 Sign up on council website to stay up to date and be notified of upcoming community meetings.
 
-[https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis)
+[https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis){:target="_blank" class="external"}
 
