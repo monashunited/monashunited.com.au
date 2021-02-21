@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Questions and Contacts"
+    url: /blog/2021/02/02/questions-and-contacts
   - title: "Facebook"
     target: _blank
     url: https://www.facebook.com/groups/monashunited
