@@ -6,13 +6,13 @@ excerpt: "The Boroondara Tennis Tournament Complex will be relocated to Glen Wav
 tagline: "The Boroondara Tennis Tournament Complex will be relocated to Glen Waverley Golf Course."
 date:   2021-02-10 00:00:00 +1100
 categories:
+  - blog
+tags:
   - monash-local-tennis-clubs
   - members
   - monash-council
   - serious-concerns
   - monash
-tags:
-  - blog
 header:
     overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
 ---

@@ -7,7 +7,7 @@ date:   2020-12-22 00:00:00 +1100
 categories:
   - blog
 tags:
-  - blog
+  - monash
 header:
     overlay_image: /assets/images/background/shayna-douglas-47d3Ocmiyuw-unsplash-monash3.webp
     show_overlay_excerpt: false

@@ -5,15 +5,16 @@ title:  "Tennis Clubs at Risk in Monash"
 excerpt: "The new tennis centre is supposed to replace the existing 23-court tennis centre in Boroondara."
 date:   2021-02-21 00:00:00 +1100
 categories:
-  - monash-local-tennis-clubs
-  - members
-  - monash-council
-  - serious-concerns
-  - monash
-tags:
   - blog
+tags:
+  - monash local tennis clubs
+  - members
+  - monash council
+  - serious concerns
+  - monash
+  - important health issue
 header:
-    overlay_image: /assets/images/banner/glenwaverley_golfcourse.webp
+    overlay_image: /assets/images/banner/tennis-background.webp
 ---
 
 ## To all Tennis Members
@@ -36,6 +37,6 @@ As residents, tennis members, and also with young children who learn tennis, we 
 
 We are deeply concerned that local Tennis Clubs in Monash will be asked to close if this development goes ahead as planned.
 
-As such, we seek your support in communicating these concerns around the future of local tennis clubs in Monash to all the members of your club by sharing this information with them as well as communicating your concerns to Councillors, see the list of sample questions to ask council below.
+As such, we seek your support in communicating these concerns around the future of local tennis clubs in Monash to all the members of your club by sharing this information with them as well as communicating your concerns to Councillors, see the list of sample questions to ask Council [here](/blog/2021/02/02/questions-and-contacts#tennis) and who to [contact](/blog/2021/02/02/questions-and-contacts#contacts).
 
 You can read further information on this site.
