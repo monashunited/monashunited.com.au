@@ -49,7 +49,7 @@ The existing tennis clubs are adamant their members will not be willing to play 
 
 It’s been noted that the State Government has provided a grant to Golf Victoria in order to create a strategy to promote participation in the game.
 
-[https://www.golf.org.au/vic-golf-infrastructure-strategy](https://www.golf.org.au/vic-golf-infrastructure-strategy){target="_blank" class="external"}
+[https://www.golf.org.au/vic-golf-infrastructure-strategy](https://www.golf.org.au/vic-golf-infrastructure-strategy){:target="_blank" class="external"}
 
 It seems counterproductive to all concerned that the same government expects the golf sporting code to acquiesce to another, for a road.  Many are stunned that a Council would be willing to trash its own perfectly good community facility – its premier public golf course, in order to fix an infrastructure  problem faced elsewhere by a state government authority. There is no benefit to Monash stakeholders.
 
@@ -73,6 +73,6 @@ If this article resonated with you, we seek your support in communicating the ab
 
 ### References
 
-The project scope: [https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis){target="_blank" class="external"}
+The project scope: [https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis){:target="_blank" class="external"}
 
-Predetermined project inclusions determined by State Government - without consultation: [https://northeastlink.vic.gov.au/news/serving-up-tennis-centre](https://northeastlink.vic.gov.au/news/serving-up-tennis-centre){target="_blank" class="external"}
+Predetermined project inclusions determined by State Government - without consultation: [https://northeastlink.vic.gov.au/news/serving-up-tennis-centre](https://northeastlink.vic.gov.au/news/serving-up-tennis-centre){:target="_blank" class="external"}

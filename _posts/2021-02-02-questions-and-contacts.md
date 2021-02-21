@@ -55,7 +55,7 @@ If you are a golfer, tennis player, resident, community member or care for our e
 *   How long do you expect golf users to be impacted by construction or how long will the course be closed?
 *   Can you promise the sound level of PA systems will not ruin the quiet enjoyment and focus of golfers?
 
-Sign up for updates and information sessions with Council:[https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis){target="_blank" class="external"}
+Sign up for updates and information sessions with Council:[https://shape.monash.vic.gov.au/tennis](https://shape.monash.vic.gov.au/tennis){:target="_blank" class="external"}
 
 ## Contacts
 
