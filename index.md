@@ -33,43 +33,6 @@ feature_row:
     url: "/blog/2021/02/13/monash-residents-lose-to-monash-council"
     target: "_blank"
     btn_label: "Read More"
-#  - image_path: /assets/images/facebook_3x4.webp
-#    alt: "blog"
-#    title: "Facebook"
-#    excerpt: "Show your support and stay up to date."
-#    url: "https://www.facebook.com/groups/monashunited"
-#    target: "_blank"
-#    btn_label: "Follow Us"
-#  - image_path: /assets/images/banner/jingda-chen-fnV7HNrC33k-unsplash.webp
-#    alt: "blog"
-#    title: "Read the Blog"
-#    excerpt: "More posts from us"
-#    url: "/blog/"
-#    btn_label: "Read"
-#  - image_path: /assets/images/flyer/we-need-help3.webp
-#    alt: "Flyer"
-#    title: "Flyer"
-#    excerpt: "Read our latest flyer with updated information."
-#    url: "/assets/docs/Monash-United-Flyer.pdf"
-#    btn_label: "Read"
-#  - image_path: /assets/docs/Monash-United-Flyer-CN.webp
-#    alt: "我们需要您的帮助！"
-#    title: "我们需要您的帮助！"
-#    excerpt: "让蒙纳士理事会负责。"
-#    url: "/assets/docs/Monash-United-Flyer-CN.pdf"
-#    btn_label: "了解更多"
-#  - image_path: /assets/docs/Monash-United-Flyer-VI.webp
-#    alt: "CHÚNG TÔI CẦN SỰ GIÚP ĐỠ CỦA QUÝ VỊ"
-#    title: "CHÚNG TÔI CẦN SỰ GIÚP ĐỠ CỦA QUÝ VỊ"
-#    excerpt: "Giữ cho Hội đồng Monash chịu trách nhiệm."
-#    url: "/assets/docs/Monash-United-Flyer-VI.pdf"
-#    btn_label: "더 찾아 봐"
-#  - image_path: /assets/docs/Monash-United-Flyer-KR.webp
-#    alt: "우리는 당신의 도움이 필요합니다."
-#    title: "우리는 당신의 도움이 필요합니다."
-#    excerpt: "모나쉬 카운실은 책임을 유지하십시오."
-#    url: "/assets/docs/Monash-United-Flyer-KR.pdf"
-#    btn_label: "더 찾아 봐"
 
 ---
 
