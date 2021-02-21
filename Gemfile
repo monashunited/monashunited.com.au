@@ -33,4 +33,5 @@ group :jekyll_plugins do
    gem 'jekyll-include-cache'
    gem 'jekyll-last-modified-at'
    gem 'jekyll-algolia'
+   gem 'jekyll-archives'
 end
